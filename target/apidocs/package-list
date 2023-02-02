@@ -1,0 +1,5 @@
+io.dropwizard
+io.dropwizard.auth
+io.dropwizard.core
+io.dropwizard.db
+io.dropwizard.resources

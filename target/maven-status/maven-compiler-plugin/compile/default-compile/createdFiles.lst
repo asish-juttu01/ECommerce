@@ -1,0 +1,9 @@
+io/dropwizard/ECommerceApplication.class
+io/dropwizard/core/Customer.class
+io/dropwizard/ECommerceConfiguration.class
+io/dropwizard/resources/CustomersResource.class
+io/dropwizard/core/User.class
+io/dropwizard/db/CustomerDAO.class
+io/dropwizard/auth/AppBasicAuthenticator.class
+io/dropwizard/ECommerceApplication$1.class
+io/dropwizard/auth/AppAuthorizer.class
